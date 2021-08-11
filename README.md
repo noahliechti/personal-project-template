@@ -1,1 +1,1 @@
-# project-template
+# personal-project-template
