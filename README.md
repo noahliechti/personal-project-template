@@ -1,8 +1,9 @@
 # personal-project-template
 <!--replace `my-project` with the projects name-->
+<!--replace `XY` with the real licence name-->
 ![Current Version](https://img.shields.io/github/package-json/v/NoahLiechti/my-project?style=social)
 [![Licence](https://img.shields.io/github/license/NoahLiechti/my-projec?style=social)](https://github.com/NoahLiechti/my-project/blob/main/LICENSE)
-[![Live Demo](https://img.shields.io/badge/Demo-Click&nbsp;Me-green.svg?style=social)](https://my-project.com)
+[![Live Demo](https://img.shields.io/badge/Live&nbsp;Preview-Click&nbsp;Me-green.svg?style=social)](https://my-project.com)
 ## Status
 ## Introduction
 ### Features
