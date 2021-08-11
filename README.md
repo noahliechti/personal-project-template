@@ -5,15 +5,20 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Click&nbsp;Me-green.svg?style=social)](https://my-project.com)
 ## Status
 ## Introduction
+### Features
+<!--e.g registration-->
 ## Illustrations
+<!--e.g screenshots -->
 ## Usage
 ## Review
 ### Problem Statement
 ### Approach
 #### Stack
+<!--e.g NodeJS, ExpressJS, TypeScript-->
 #### Architecture
 #### UX/UI
-### Challlenges
+### Challenges
+### Solutions
 ### Learnings
 ## License
 This project is licensed under the terms of the **XY** license.
