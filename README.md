@@ -1,6 +1,11 @@
 # personal-project-template
-## Problem Statement
-## Approach
-### Architecture
-## Challlenges
-## Learnings
+## Status
+## Introduction
+## Illustrations
+## Usage
+## Review
+### Problem Statement
+### Approach
+#### Architecture
+### Challlenges
+### Learnings
