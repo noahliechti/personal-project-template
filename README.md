@@ -11,6 +11,8 @@
 ## Illustrations
 <!--e.g screenshots -->
 ## Usage
+### Prerequisites
+### Installing
 ## Review
 ### Problem Statement
 ### Approach
